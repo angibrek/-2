@@ -4,8 +4,8 @@ def main():
     result = add(2, 3)
     print(f"2 + 3 = {result}")
 
-def add(a, b):
-    return a + b
+def add(a, c):
+    return a + c
 
 if __name__ == "__main__":
     main()
